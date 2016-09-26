@@ -4,4 +4,4 @@ Total real time ;)
 
 Improvements will come sometime.
 
-npm install && node index.html
+npm install && node index.js
