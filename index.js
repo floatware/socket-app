@@ -6,7 +6,7 @@ app.get('/chat', function(req, res){
   res.sendFile(__dirname + '/index.html');
 });
 
-app.get('/chat/about', function(req,es){
+app.get('/chat/about', function(req,res){
   res.sendFile(__dirname + 'README.md');
 });
 
